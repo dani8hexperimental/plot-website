@@ -1,0 +1,26 @@
+{
+  "id": "bharat-asm-colony",
+  "name": "Bharat ASM Colony",
+  "slug": "green-valley",
+  "location": {
+    "latitude": 17.366914208,
+    "longitude": 77.148213749
+  },
+  "map": {
+    "defaultZoom": 18,
+    "minZoom": 15,
+    "maxZoom": 20
+  },
+  "description": "NA and TP approved 4 acre 10 guntas plotted development at 120/3 and 120/4, Kalgi, Kalaburagi.",
+  "contact": {
+    "phone": "+91-98765-43210",
+    "email": "sales@asm-builders.example"
+  },
+  "plan": {
+    "totalPlots": 71,
+    "ownerPlots": 44,
+    "developerPlots": 27,
+    "ownerAreaSqm": 5417.3,
+    "developerAreaSqm": 3181
+  }
+}

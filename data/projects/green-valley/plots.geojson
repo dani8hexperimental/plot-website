@@ -1,0 +1,3207 @@
+{
+ "type": "FeatureCollection",
+ "name": "Bharat ASM Colony - Sy.No. 120/3 & 120/4, Kalgi, Kalaburagi",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P01",
+    "number": "1",
+    "area": 391.3,
+    "areaSqft": 4212.3,
+    "dimensions": "irregular (boundary plot)",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C5",
+    "plotType": "boundary"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148131338,
+       17.366246708
+      ],
+      [
+       77.14797216,
+       17.366230042
+      ],
+      [
+       77.147992645,
+       17.366051817
+      ],
+      [
+       77.148158069,
+       17.366014138
+      ],
+      [
+       77.148131338,
+       17.366246708
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P02",
+    "number": "2",
+    "area": 152.3,
+    "areaSqft": 1638.9,
+    "dimensions": "8.95 m x 17.01 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C5",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148122153,
+       17.36632662
+      ],
+      [
+       77.147962975,
+       17.366309955
+      ],
+      [
+       77.14797216,
+       17.366230042
+      ],
+      [
+       77.148131338,
+       17.366246708
+      ],
+      [
+       77.148122153,
+       17.36632662
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P03",
+    "number": "3",
+    "area": 152.3,
+    "areaSqft": 1638.9,
+    "dimensions": "8.95 m x 17.01 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C5",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148112968,
+       17.366406533
+      ],
+      [
+       77.14795379,
+       17.366389868
+      ],
+      [
+       77.147962975,
+       17.366309955
+      ],
+      [
+       77.148122153,
+       17.36632662
+      ],
+      [
+       77.148112968,
+       17.366406533
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P04",
+    "number": "4",
+    "area": 152.3,
+    "areaSqft": 1638.9,
+    "dimensions": "8.95 m x 17.01 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C5",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148103783,
+       17.366486446
+      ],
+      [
+       77.147944605,
+       17.36646978
+      ],
+      [
+       77.14795379,
+       17.366389868
+      ],
+      [
+       77.148112968,
+       17.366406533
+      ],
+      [
+       77.148103783,
+       17.366486446
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P05",
+    "number": "5",
+    "area": 152.3,
+    "areaSqft": 1638.9,
+    "dimensions": "8.95 m x 17.01 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C5",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148094597,
+       17.366566359
+      ],
+      [
+       77.14793542,
+       17.366549693
+      ],
+      [
+       77.147944605,
+       17.36646978
+      ],
+      [
+       77.148103783,
+       17.366486446
+      ],
+      [
+       77.148094597,
+       17.366566359
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P06",
+    "number": "6",
+    "area": 152.3,
+    "areaSqft": 1638.9,
+    "dimensions": "8.95 m x 17.01 m",
+    "status": "available",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C5",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148085412,
+       17.366646272
+      ],
+      [
+       77.147926235,
+       17.366629606
+      ],
+      [
+       77.14793542,
+       17.366549693
+      ],
+      [
+       77.148094597,
+       17.366566359
+      ],
+      [
+       77.148085412,
+       17.366646272
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P07",
+    "number": "7",
+    "area": 152.3,
+    "areaSqft": 1638.9,
+    "dimensions": "8.95 m x 17.01 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C5",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148076227,
+       17.366726185
+      ],
+      [
+       77.14791705,
+       17.366709519
+      ],
+      [
+       77.147926235,
+       17.366629606
+      ],
+      [
+       77.148085412,
+       17.366646272
+      ],
+      [
+       77.148076227,
+       17.366726185
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P08",
+    "number": "8",
+    "area": 104.6,
+    "areaSqft": 1125.7,
+    "dimensions": "8.73 m x 11.97 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C1",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.147974408,
+       17.366795723
+      ],
+      [
+       77.148055955,
+       17.366805712
+      ],
+      [
+       77.14804161,
+       17.366912385
+      ],
+      [
+       77.147960064,
+       17.366902396
+      ],
+      [
+       77.147974408,
+       17.366795723
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P09",
+    "number": "9",
+    "area": 104.6,
+    "areaSqft": 1125.7,
+    "dimensions": "8.73 m x 11.97 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C1",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.147960064,
+       17.366902396
+      ],
+      [
+       77.14804161,
+       17.366912385
+      ],
+      [
+       77.148027266,
+       17.367019058
+      ],
+      [
+       77.14794572,
+       17.36700907
+      ],
+      [
+       77.147960064,
+       17.366902396
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P10",
+    "number": "10",
+    "area": 104.6,
+    "areaSqft": 1125.7,
+    "dimensions": "8.73 m x 11.97 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C1",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.14794572,
+       17.36700907
+      ],
+      [
+       77.148027266,
+       17.367019058
+      ],
+      [
+       77.148012922,
+       17.367125731
+      ],
+      [
+       77.147931375,
+       17.367115743
+      ],
+      [
+       77.14794572,
+       17.36700907
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P11",
+    "number": "11",
+    "area": 104.6,
+    "areaSqft": 1125.7,
+    "dimensions": "8.73 m x 11.97 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C1",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.147931375,
+       17.367115743
+      ],
+      [
+       77.148012922,
+       17.367125731
+      ],
+      [
+       77.147998578,
+       17.367232405
+      ],
+      [
+       77.147917031,
+       17.367222416
+      ],
+      [
+       77.147931375,
+       17.367115743
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P12",
+    "number": "12",
+    "area": 104.6,
+    "areaSqft": 1125.7,
+    "dimensions": "8.73 m x 11.97 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C1",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.147917031,
+       17.367222416
+      ],
+      [
+       77.147998578,
+       17.367232405
+      ],
+      [
+       77.147984233,
+       17.367339078
+      ],
+      [
+       77.147902687,
+       17.367329089
+      ],
+      [
+       77.147917031,
+       17.367222416
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P13",
+    "number": "13",
+    "area": 104.6,
+    "areaSqft": 1125.7,
+    "dimensions": "8.73 m x 11.97 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C1",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.147902687,
+       17.367329089
+      ],
+      [
+       77.147984233,
+       17.367339078
+      ],
+      [
+       77.147969889,
+       17.367445751
+      ],
+      [
+       77.147888343,
+       17.367435763
+      ],
+      [
+       77.147902687,
+       17.367329089
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P14",
+    "number": "14",
+    "area": 104.6,
+    "areaSqft": 1125.7,
+    "dimensions": "8.73 m x 11.97 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C1",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.147888343,
+       17.367435763
+      ],
+      [
+       77.147969889,
+       17.367445751
+      ],
+      [
+       77.147955545,
+       17.367552424
+      ],
+      [
+       77.147873998,
+       17.367542436
+      ],
+      [
+       77.147888343,
+       17.367435763
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P15",
+    "number": "15",
+    "area": 104.6,
+    "areaSqft": 1125.7,
+    "dimensions": "8.73 m x 11.97 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C1",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.147873998,
+       17.367542436
+      ],
+      [
+       77.147955545,
+       17.367552424
+      ],
+      [
+       77.1479412,
+       17.367659097
+      ],
+      [
+       77.147859654,
+       17.367649109
+      ],
+      [
+       77.147873998,
+       17.367542436
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P16",
+    "number": "16",
+    "area": 104.6,
+    "areaSqft": 1125.7,
+    "dimensions": "8.73 m x 11.97 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C1",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.147859654,
+       17.367649109
+      ],
+      [
+       77.1479412,
+       17.367659097
+      ],
+      [
+       77.147926856,
+       17.367765771
+      ],
+      [
+       77.14784531,
+       17.367755782
+      ],
+      [
+       77.147859654,
+       17.367649109
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P17",
+    "number": "17",
+    "area": 138.0,
+    "areaSqft": 1485.7,
+    "dimensions": "irregular (boundary plot)",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C1",
+    "plotType": "boundary"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.14784531,
+       17.367755782
+      ],
+      [
+       77.147926856,
+       17.367765771
+      ],
+      [
+       77.147907341,
+       17.367910895
+      ],
+      [
+       77.147826959,
+       17.367892247
+      ],
+      [
+       77.14784531,
+       17.367755782
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P18",
+    "number": "18",
+    "area": 122.2,
+    "areaSqft": 1314.9,
+    "dimensions": "irregular (boundary plot)",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C2",
+    "plotType": "boundary"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.147991282,
+       17.367841718
+      ],
+      [
+       77.148103419,
+       17.367858375
+      ],
+      [
+       77.148088019,
+       17.367952811
+      ],
+      [
+       77.147977353,
+       17.367927137
+      ],
+      [
+       77.147991282,
+       17.367841718
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P19",
+    "number": "19",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C2",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148004282,
+       17.367762002
+      ],
+      [
+       77.148116419,
+       17.367778659
+      ],
+      [
+       77.148103419,
+       17.367858375
+      ],
+      [
+       77.147991282,
+       17.367841718
+      ],
+      [
+       77.148004282,
+       17.367762002
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P20",
+    "number": "20",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C2",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148017282,
+       17.367682285
+      ],
+      [
+       77.148129419,
+       17.367698942
+      ],
+      [
+       77.148116419,
+       17.367778659
+      ],
+      [
+       77.148004282,
+       17.367762002
+      ],
+      [
+       77.148017282,
+       17.367682285
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P21",
+    "number": "21",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C2",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148030282,
+       17.367602569
+      ],
+      [
+       77.148142418,
+       17.367619226
+      ],
+      [
+       77.148129419,
+       17.367698942
+      ],
+      [
+       77.148017282,
+       17.367682285
+      ],
+      [
+       77.148030282,
+       17.367602569
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P22",
+    "number": "22",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C2",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148043281,
+       17.367522852
+      ],
+      [
+       77.148155418,
+       17.36753951
+      ],
+      [
+       77.148142418,
+       17.367619226
+      ],
+      [
+       77.148030282,
+       17.367602569
+      ],
+      [
+       77.148043281,
+       17.367522852
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P23",
+    "number": "23",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C2",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148056281,
+       17.367443136
+      ],
+      [
+       77.148168418,
+       17.367459793
+      ],
+      [
+       77.148155418,
+       17.36753951
+      ],
+      [
+       77.148043281,
+       17.367522852
+      ],
+      [
+       77.148056281,
+       17.367443136
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P24",
+    "number": "24",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C6",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148265383,
+       17.366751231
+      ],
+      [
+       77.148152844,
+       17.366737263
+      ],
+      [
+       77.148163744,
+       17.366657261
+      ],
+      [
+       77.148276283,
+       17.366671228
+      ],
+      [
+       77.148265383,
+       17.366751231
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P25",
+    "number": "25",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C6",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148276283,
+       17.366671228
+      ],
+      [
+       77.148163744,
+       17.366657261
+      ],
+      [
+       77.148174644,
+       17.366577258
+      ],
+      [
+       77.148287184,
+       17.366591225
+      ],
+      [
+       77.148276283,
+       17.366671228
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P26",
+    "number": "26",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C6",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148287184,
+       17.366591225
+      ],
+      [
+       77.148174644,
+       17.366577258
+      ],
+      [
+       77.148185545,
+       17.366497255
+      ],
+      [
+       77.148298084,
+       17.366511223
+      ],
+      [
+       77.148287184,
+       17.366591225
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P27",
+    "number": "27",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C6",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148298084,
+       17.366511223
+      ],
+      [
+       77.148185545,
+       17.366497255
+      ],
+      [
+       77.148196445,
+       17.366417253
+      ],
+      [
+       77.148308984,
+       17.36643122
+      ],
+      [
+       77.148298084,
+       17.366511223
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P28",
+    "number": "28",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C6",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148308984,
+       17.36643122
+      ],
+      [
+       77.148196445,
+       17.366417253
+      ],
+      [
+       77.148207345,
+       17.36633725
+      ],
+      [
+       77.148319885,
+       17.366351217
+      ],
+      [
+       77.148308984,
+       17.36643122
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P29",
+    "number": "29",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C6",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148319885,
+       17.366351217
+      ],
+      [
+       77.148207345,
+       17.36633725
+      ],
+      [
+       77.148218246,
+       17.366257247
+      ],
+      [
+       77.148330785,
+       17.366271215
+      ],
+      [
+       77.148319885,
+       17.366351217
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P30",
+    "number": "30",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C6",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148330785,
+       17.366271215
+      ],
+      [
+       77.148218246,
+       17.366257247
+      ],
+      [
+       77.148229146,
+       17.366177245
+      ],
+      [
+       77.148341685,
+       17.366191212
+      ],
+      [
+       77.148330785,
+       17.366271215
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P31",
+    "number": "31",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C6",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148341685,
+       17.366191212
+      ],
+      [
+       77.148229146,
+       17.366177245
+      ],
+      [
+       77.148240046,
+       17.366097242
+      ],
+      [
+       77.148352586,
+       17.36611121
+      ],
+      [
+       77.148341685,
+       17.366191212
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P32",
+    "number": "32",
+    "area": 169.8,
+    "areaSqft": 1828.0,
+    "dimensions": "irregular (boundary plot)",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C6",
+    "plotType": "boundary"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148352586,
+       17.36611121
+      ],
+      [
+       77.148240046,
+       17.366097242
+      ],
+      [
+       77.148254358,
+       17.365992207
+      ],
+      [
+       77.148372465,
+       17.365965305
+      ],
+      [
+       77.148352586,
+       17.36611121
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P33",
+    "number": "33",
+    "area": 225.1,
+    "areaSqft": 2423.4,
+    "dimensions": "irregular (boundary plot)",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C7",
+    "plotType": "boundary"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148465125,
+       17.366125177
+      ],
+      [
+       77.148352586,
+       17.36611121
+      ],
+      [
+       77.148372465,
+       17.365965305
+      ],
+      [
+       77.148490573,
+       17.365938403
+      ],
+      [
+       77.148465125,
+       17.366125177
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P34",
+    "number": "34",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C7",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148454225,
+       17.366205179
+      ],
+      [
+       77.148341685,
+       17.366191212
+      ],
+      [
+       77.148352586,
+       17.36611121
+      ],
+      [
+       77.148465125,
+       17.366125177
+      ],
+      [
+       77.148454225,
+       17.366205179
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P35",
+    "number": "35",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C7",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148443325,
+       17.366285182
+      ],
+      [
+       77.148330785,
+       17.366271215
+      ],
+      [
+       77.148341685,
+       17.366191212
+      ],
+      [
+       77.148454225,
+       17.366205179
+      ],
+      [
+       77.148443325,
+       17.366285182
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P36",
+    "number": "36",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C7",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148432424,
+       17.366365185
+      ],
+      [
+       77.148319885,
+       17.366351217
+      ],
+      [
+       77.148330785,
+       17.366271215
+      ],
+      [
+       77.148443325,
+       17.366285182
+      ],
+      [
+       77.148432424,
+       17.366365185
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P37",
+    "number": "37",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C7",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148421524,
+       17.366445187
+      ],
+      [
+       77.148308984,
+       17.36643122
+      ],
+      [
+       77.148319885,
+       17.366351217
+      ],
+      [
+       77.148432424,
+       17.366365185
+      ],
+      [
+       77.148421524,
+       17.366445187
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P38",
+    "number": "38",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C7",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148410623,
+       17.36652519
+      ],
+      [
+       77.148298084,
+       17.366511223
+      ],
+      [
+       77.148308984,
+       17.36643122
+      ],
+      [
+       77.148421524,
+       17.366445187
+      ],
+      [
+       77.148410623,
+       17.36652519
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P39",
+    "number": "39",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C7",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148399723,
+       17.366605193
+      ],
+      [
+       77.148287184,
+       17.366591225
+      ],
+      [
+       77.148298084,
+       17.366511223
+      ],
+      [
+       77.148410623,
+       17.36652519
+      ],
+      [
+       77.148399723,
+       17.366605193
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P40",
+    "number": "40",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C7",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148388823,
+       17.366685195
+      ],
+      [
+       77.148276283,
+       17.366671228
+      ],
+      [
+       77.148287184,
+       17.366591225
+      ],
+      [
+       77.148399723,
+       17.366605193
+      ],
+      [
+       77.148388823,
+       17.366685195
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P41",
+    "number": "41",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C7",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148377922,
+       17.366765198
+      ],
+      [
+       77.148265383,
+       17.366751231
+      ],
+      [
+       77.148276283,
+       17.366671228
+      ],
+      [
+       77.148388823,
+       17.366685195
+      ],
+      [
+       77.148377922,
+       17.366765198
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P42",
+    "number": "42",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C3",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148168418,
+       17.367459793
+      ],
+      [
+       77.148280555,
+       17.36747645
+      ],
+      [
+       77.148267555,
+       17.367556167
+      ],
+      [
+       77.148155418,
+       17.36753951
+      ],
+      [
+       77.148168418,
+       17.367459793
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P43",
+    "number": "43",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C3",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148155418,
+       17.36753951
+      ],
+      [
+       77.148267555,
+       17.367556167
+      ],
+      [
+       77.148254555,
+       17.367635883
+      ],
+      [
+       77.148142418,
+       17.367619226
+      ],
+      [
+       77.148155418,
+       17.36753951
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P44",
+    "number": "44",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C3",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148142418,
+       17.367619226
+      ],
+      [
+       77.148254555,
+       17.367635883
+      ],
+      [
+       77.148241556,
+       17.3677156
+      ],
+      [
+       77.148129419,
+       17.367698942
+      ],
+      [
+       77.148142418,
+       17.367619226
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P45",
+    "number": "45",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C3",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148129419,
+       17.367698942
+      ],
+      [
+       77.148241556,
+       17.3677156
+      ],
+      [
+       77.148228556,
+       17.367795316
+      ],
+      [
+       77.148116419,
+       17.367778659
+      ],
+      [
+       77.148129419,
+       17.367698942
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P46",
+    "number": "46",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C3",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148116419,
+       17.367778659
+      ],
+      [
+       77.148228556,
+       17.367795316
+      ],
+      [
+       77.148215556,
+       17.367875033
+      ],
+      [
+       77.148103419,
+       17.367858375
+      ],
+      [
+       77.148116419,
+       17.367778659
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P47",
+    "number": "47",
+    "area": 134.4,
+    "areaSqft": 1446.7,
+    "dimensions": "irregular (boundary plot)",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "East",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C3",
+    "plotType": "boundary"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148103419,
+       17.367858375
+      ],
+      [
+       77.148215556,
+       17.367875033
+      ],
+      [
+       77.148198686,
+       17.367978484
+      ],
+      [
+       77.148088019,
+       17.367952811
+      ],
+      [
+       77.148103419,
+       17.367858375
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P48",
+    "number": "48",
+    "area": 148.2,
+    "areaSqft": 1594.7,
+    "dimensions": "irregular (boundary plot)",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C4",
+    "plotType": "boundary"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148303174,
+       17.367895686
+      ],
+      [
+       77.148415672,
+       17.367909954
+      ],
+      [
+       77.148399639,
+       17.368025103
+      ],
+      [
+       77.148288737,
+       17.367999375
+      ],
+      [
+       77.148303174,
+       17.367895686
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P49",
+    "number": "49",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C4",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.14831431,
+       17.367815713
+      ],
+      [
+       77.148426808,
+       17.367829981
+      ],
+      [
+       77.148415672,
+       17.367909954
+      ],
+      [
+       77.148303174,
+       17.367895686
+      ],
+      [
+       77.14831431,
+       17.367815713
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P50",
+    "number": "50",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C4",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148325445,
+       17.36773574
+      ],
+      [
+       77.148437943,
+       17.367750008
+      ],
+      [
+       77.148426808,
+       17.367829981
+      ],
+      [
+       77.14831431,
+       17.367815713
+      ],
+      [
+       77.148325445,
+       17.36773574
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P51",
+    "number": "51",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C4",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.14833658,
+       17.367655766
+      ],
+      [
+       77.148449078,
+       17.367670035
+      ],
+      [
+       77.148437943,
+       17.367750008
+      ],
+      [
+       77.148325445,
+       17.36773574
+      ],
+      [
+       77.14833658,
+       17.367655766
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P52",
+    "number": "52",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C4",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148347716,
+       17.367575793
+      ],
+      [
+       77.148460214,
+       17.367590062
+      ],
+      [
+       77.148449078,
+       17.367670035
+      ],
+      [
+       77.14833658,
+       17.367655766
+      ],
+      [
+       77.148347716,
+       17.367575793
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P53",
+    "number": "53",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C4",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148358851,
+       17.36749582
+      ],
+      [
+       77.148471349,
+       17.367510089
+      ],
+      [
+       77.148460214,
+       17.367590062
+      ],
+      [
+       77.148347716,
+       17.367575793
+      ],
+      [
+       77.148358851,
+       17.36749582
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P54",
+    "number": "54",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C4",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148369987,
+       17.367415847
+      ],
+      [
+       77.148482484,
+       17.367430115
+      ],
+      [
+       77.148471349,
+       17.367510089
+      ],
+      [
+       77.148358851,
+       17.36749582
+      ],
+      [
+       77.148369987,
+       17.367415847
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P55",
+    "number": "55",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C4",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148381122,
+       17.367335874
+      ],
+      [
+       77.14849362,
+       17.367350142
+      ],
+      [
+       77.148482484,
+       17.367430115
+      ],
+      [
+       77.148369987,
+       17.367415847
+      ],
+      [
+       77.148381122,
+       17.367335874
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P56",
+    "number": "56",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C4",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148392257,
+       17.367255901
+      ],
+      [
+       77.148504755,
+       17.367270169
+      ],
+      [
+       77.14849362,
+       17.367350142
+      ],
+      [
+       77.148381122,
+       17.367335874
+      ],
+      [
+       77.148392257,
+       17.367255901
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P57",
+    "number": "57",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C4",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148403393,
+       17.367175928
+      ],
+      [
+       77.14851589,
+       17.367190196
+      ],
+      [
+       77.148504755,
+       17.367270169
+      ],
+      [
+       77.148392257,
+       17.367255901
+      ],
+      [
+       77.148403393,
+       17.367175928
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P58",
+    "number": "58",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C4",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148414528,
+       17.367095954
+      ],
+      [
+       77.148527026,
+       17.367110223
+      ],
+      [
+       77.14851589,
+       17.367190196
+      ],
+      [
+       77.148403393,
+       17.367175928
+      ],
+      [
+       77.148414528,
+       17.367095954
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P59",
+    "number": "59",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C4",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148425663,
+       17.367015981
+      ],
+      [
+       77.148538161,
+       17.36703025
+      ],
+      [
+       77.148527026,
+       17.367110223
+      ],
+      [
+       77.148414528,
+       17.367095954
+      ],
+      [
+       77.148425663,
+       17.367015981
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P60",
+    "number": "60",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C4",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148436799,
+       17.366936008
+      ],
+      [
+       77.148549297,
+       17.366950277
+      ],
+      [
+       77.148538161,
+       17.36703025
+      ],
+      [
+       77.148425663,
+       17.367015981
+      ],
+      [
+       77.148436799,
+       17.366936008
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P61",
+    "number": "61",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C4",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148447934,
+       17.366856035
+      ],
+      [
+       77.148560432,
+       17.366870303
+      ],
+      [
+       77.148549297,
+       17.366950277
+      ],
+      [
+       77.148436799,
+       17.366936008
+      ],
+      [
+       77.148447934,
+       17.366856035
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P62",
+    "number": "62",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C8",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.14856953,
+       17.366790908
+      ],
+      [
+       77.148457141,
+       17.366775876
+      ],
+      [
+       77.148468872,
+       17.366695981
+      ],
+      [
+       77.148581261,
+       17.366711012
+      ],
+      [
+       77.14856953,
+       17.366790908
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P63",
+    "number": "63",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C8",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148581261,
+       17.366711012
+      ],
+      [
+       77.148468872,
+       17.366695981
+      ],
+      [
+       77.148480603,
+       17.366616085
+      ],
+      [
+       77.148592992,
+       17.366631117
+      ],
+      [
+       77.148581261,
+       17.366711012
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P64",
+    "number": "64",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C8",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148592992,
+       17.366631117
+      ],
+      [
+       77.148480603,
+       17.366616085
+      ],
+      [
+       77.148492334,
+       17.36653619
+      ],
+      [
+       77.148604723,
+       17.366551221
+      ],
+      [
+       77.148592992,
+       17.366631117
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P65",
+    "number": "65",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C8",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148604723,
+       17.366551221
+      ],
+      [
+       77.148492334,
+       17.36653619
+      ],
+      [
+       77.148504065,
+       17.366456294
+      ],
+      [
+       77.148616454,
+       17.366471326
+      ],
+      [
+       77.148604723,
+       17.366551221
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P66",
+    "number": "66",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C8",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148616454,
+       17.366471326
+      ],
+      [
+       77.148504065,
+       17.366456294
+      ],
+      [
+       77.148515796,
+       17.366376398
+      ],
+      [
+       77.148628184,
+       17.36639143
+      ],
+      [
+       77.148616454,
+       17.366471326
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P67",
+    "number": "67",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C8",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148628184,
+       17.36639143
+      ],
+      [
+       77.148515796,
+       17.366376398
+      ],
+      [
+       77.148527527,
+       17.366296503
+      ],
+      [
+       77.148639915,
+       17.366311534
+      ],
+      [
+       77.148628184,
+       17.36639143
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P68",
+    "number": "68",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C8",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148639915,
+       17.366311534
+      ],
+      [
+       77.148527527,
+       17.366296503
+      ],
+      [
+       77.148539257,
+       17.366216607
+      ],
+      [
+       77.148651646,
+       17.366231639
+      ],
+      [
+       77.148639915,
+       17.366311534
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P69",
+    "number": "69",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "available",
+    "ownership": "developer",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C8",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148651646,
+       17.366231639
+      ],
+      [
+       77.148539257,
+       17.366216607
+      ],
+      [
+       77.148550988,
+       17.366136712
+      ],
+      [
+       77.148663377,
+       17.366151743
+      ],
+      [
+       77.148651646,
+       17.366231639
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P70",
+    "number": "70",
+    "area": 108.3,
+    "areaSqft": 1165.6,
+    "dimensions": "8.98 m x 12.06 m",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C8",
+    "plotType": "standard"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148663377,
+       17.366151743
+      ],
+      [
+       77.148550988,
+       17.366136712
+      ],
+      [
+       77.148562719,
+       17.366056816
+      ],
+      [
+       77.148675108,
+       17.366071848
+      ],
+      [
+       77.148663377,
+       17.366151743
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "P71",
+    "number": "71",
+    "area": 217.6,
+    "areaSqft": 2341.9,
+    "dimensions": "irregular (boundary plot)",
+    "status": "sold",
+    "ownership": "owner",
+    "price": 0,
+    "facing": "West",
+    "roadWidth": 9,
+    "zone": "Bharat ASM Colony",
+    "block": "C8",
+    "plotType": "boundary"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.148675108,
+       17.366071848
+      ],
+      [
+       77.148562719,
+       17.366056816
+      ],
+      [
+       77.148583203,
+       17.365917305
+      ],
+      [
+       77.148701764,
+       17.3658903
+      ],
+      [
+       77.148675108,
+       17.366071848
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

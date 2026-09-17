@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "main-road",
+        "name": "MAIN ROAD",
+        "width": 9,
+        "kind": "main"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1475246,
+            17.3657556
+          ],
+          [
+            77.1483053,
+            17.365459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "road-west",
+        "name": "9 MTS WIDE ROAD",
+        "width": 9,
+        "kind": "internal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.148219202,
+            17.365983106
+          ],
+          [
+            77.147939459,
+            17.367934644
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "road-east",
+        "name": "9 MTS WIDE ROAD",
+        "width": 9,
+        "kind": "internal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.148529675,
+            17.36597335
+          ],
+          [
+            77.14824621,
+            17.368005959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "road-crossing",
+        "name": "9 MTS WIDE ROAD",
+        "width": 9,
+        "kind": "internal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.14792654,
+            17.366750005
+          ],
+          [
+            77.148582733,
+            17.366832909
+          ]
+        ]
+      }
+    }
+  ]
+}
