@@ -123,6 +123,64 @@ function buildPlotHoverContent(properties: PlotProperties): HTMLElement {
   return root;
 }
 
+function buildPlotSelectedContent(properties: PlotProperties): HTMLElement {
+  const root = document.createElement("div");
+  root.className = "plot-selected-card";
+
+  const heading = document.createElement("div");
+  heading.className = "plot-selected-heading";
+
+  const title = document.createElement("strong");
+  title.textContent = `Plot ${properties.number}`;
+  heading.appendChild(title);
+
+  const status = document.createElement("span");
+  status.className = "plot-selected-status";
+  status.style.color = statusColors[properties.status];
+  status.style.backgroundColor = `${statusColors[properties.status]}20`;
+  status.textContent = statusLabels[properties.status];
+  heading.appendChild(status);
+  root.appendChild(heading);
+
+  const facts = document.createElement("div");
+  facts.className = "plot-selected-facts";
+  const entries: Array<[string, string]> = [
+    [
+      "Area",
+      properties.areaSqft
+        ? `${properties.areaSqft.toLocaleString("en-IN")} sq.ft`
+        : formatArea(properties.area),
+    ],
+    ["Dimensions", properties.dimensions ?? "Not specified"],
+    ["Price", formatPrice(properties.price)],
+  ];
+
+  if (properties.facing) entries.push(["Facing", properties.facing]);
+  if (properties.roadWidth) {
+    entries.push(["Road width", `${properties.roadWidth} m`]);
+  }
+  if (properties.ownership) {
+    entries.push([
+      "Allocation",
+      properties.ownership === "developer" ? "Developer" : "Owner",
+    ]);
+  }
+
+  for (const [label, value] of entries) {
+    const fact = document.createElement("div");
+    const factLabel = document.createElement("span");
+    factLabel.className = "plot-selected-fact-label";
+    factLabel.textContent = label;
+    const factValue = document.createElement("strong");
+    factValue.textContent = value;
+    fact.append(factLabel, factValue);
+    facts.appendChild(fact);
+  }
+  root.appendChild(facts);
+
+  return root;
+}
+
 function scalePlot(plot: PlotFeature, scale: number): PlotFeature {
   const [centerLng, centerLat] = getPlotCenter(plot);
   return {
@@ -222,7 +280,15 @@ function applySelected(
   selectedPlotId?: string | null,
   animationFrameRef?: { current: number | null },
   lastSelectedRef?: { current: PlotFeature | null },
-  defaultZoom?: number
+  defaultZoom?: number,
+  selectedPopupRef?: {
+    current: {
+      remove: () => void;
+      setLngLat: (lngLat: [number, number]) => unknown;
+      setDOMContent: (element: HTMLElement) => unknown;
+      addTo: (map: Map) => unknown;
+    } | null;
+  }
 ) {
   if (animationFrameRef?.current !== null && animationFrameRef?.current !== undefined) {
     cancelAnimationFrame(animationFrameRef.current);
@@ -324,6 +390,14 @@ function applySelected(
   if (selected) {
     const [lng, lat] = getPlotCenter(selected);
     map.flyTo({ center: [lng, lat], zoom: 20, essential: true });
+    const popup = selectedPopupRef?.current;
+    if (popup) {
+      popup.setLngLat([lng, lat]);
+      popup.setDOMContent(buildPlotSelectedContent(selected.properties));
+      popup.addTo(map);
+    }
+  } else {
+    selectedPopupRef?.current?.remove();
   }
 }
 
@@ -340,6 +414,12 @@ export default function ProjectMap({
   const mapContainerRef = useRef<HTMLDivElement | null>(null);
   const mapRef = useRef<Map | null>(null);
   const hoverPopupRef = useRef<{ remove: () => void } | null>(null);
+  const selectedPopupRef = useRef<{
+    remove: () => void;
+    setLngLat: (lngLat: [number, number]) => unknown;
+    setDOMContent: (element: HTMLElement) => unknown;
+    addTo: (map: Map) => unknown;
+  } | null>(null);
   const hoveredPlotIdRef = useRef<string | null>(null);
   const selectedAnimationFrameRef = useRef<number | null>(null);
   const lastSelectedRef = useRef<PlotFeature | null>(null);
@@ -713,6 +793,13 @@ export default function ProjectMap({
           className: "plot-hover-popup",
         });
         hoverPopupRef.current = hoverPopup;
+        const selectedPopup = new lib.Popup({
+          closeButton: false,
+          closeOnClick: false,
+          offset: 20,
+          className: "plot-selected-popup",
+        });
+        selectedPopupRef.current = selectedPopup;
 
         // clicking away from any plot unfocuses the selection
         map.on("click", (e) => {
@@ -782,7 +869,8 @@ export default function ProjectMap({
           selectedPlotIdRef.current,
           selectedAnimationFrameRef,
           lastSelectedRef,
-          project.map.defaultZoom
+          project.map.defaultZoom,
+          selectedPopupRef
         );
       });
     }
@@ -797,6 +885,8 @@ export default function ProjectMap({
       }
       hoverPopupRef.current?.remove();
       hoverPopupRef.current = null;
+      selectedPopupRef.current?.remove();
+      selectedPopupRef.current = null;
       if (selectedAnimationFrameRef.current !== null) {
         cancelAnimationFrame(selectedAnimationFrameRef.current);
         selectedAnimationFrameRef.current = null;
@@ -821,7 +911,8 @@ export default function ProjectMap({
       selectedPlotId,
       selectedAnimationFrameRef,
       lastSelectedRef,
-      project.map.defaultZoom
+      project.map.defaultZoom,
+      selectedPopupRef
     );
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [selectedPlotId, plots]);
