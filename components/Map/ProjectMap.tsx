@@ -812,6 +812,13 @@ export default function ProjectMap({
           }
         });
 
+        // Hover popups only apply to devices with a real pointer; on touch
+        // screens they would overlap the click-selected bubble.
+        const supportsHover =
+          typeof window.matchMedia === "function"
+            ? window.matchMedia("(hover: hover)").matches
+            : true;
+
         for (const status of PLOT_STATUSES) {
           const layerId = `plots-fill-${status}`;
           map.on("click", layerId, (e) => {
@@ -819,6 +826,8 @@ export default function ProjectMap({
             if (!feature?.properties?.id) return;
             onSelectPlot(feature.properties.id as string);
           });
+
+          if (!supportsHover) continue;
 
           map.on("mouseenter", layerId, (e) => {
             map.getCanvas().style.cursor = "pointer";

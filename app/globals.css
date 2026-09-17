@@ -73,6 +73,13 @@ body {
   box-shadow: 0 10px 24px rgb(15 23 42 / 18%);
 }
 
+/* Hover bubbles never render on touch-only screens */
+@media (hover: none) {
+  .plot-hover-popup {
+    display: none;
+  }
+}
+
 @keyframes plot-selected-popup-in {
   from {
     opacity: 0;
